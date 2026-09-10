@@ -1,0 +1,8 @@
+{
+  "cleanUrls": false,
+  "redirects": [
+    { "source": "/Admin.html", "destination": "/admin.html", "permanent": false },
+    { "source": "/Admin", "destination": "/admin.html", "permanent": false },
+    { "source": "/admin", "destination": "/admin.html", "permanent": false }
+  ]
+}
